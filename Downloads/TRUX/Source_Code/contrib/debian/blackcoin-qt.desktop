@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GlobalTruckExchange
+Comment=GlobalTruckExchange P2P Cryptocurrency
+Comment[fr]=GlobalTruckExchange, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=GlobalTruckExchange, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/globaltruckexchange-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/globaltruckexchange;
+Categories=Office;

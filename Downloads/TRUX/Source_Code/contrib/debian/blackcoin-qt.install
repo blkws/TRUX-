@@ -1,0 +1,5 @@
+globaltruckexchange-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/globaltruckexchange-qt.desktop usr/share/applications
+debian/globaltruckexchange-qt.protocol usr/share/kde4/services/
